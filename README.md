@@ -89,7 +89,7 @@ REM Caminho real do Python e do script corrigido
 
 ```
 projeto-etl-oracle/
-├── importar_fundos.py
+├── fundos.py
 ├── rodar_importacao.bat
 ├── logs/
 │   └── execucao_YYYY-MM-DD.log
